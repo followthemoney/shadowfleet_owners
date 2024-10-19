@@ -1,0 +1,638 @@
+vessel_imo,vessel_name,tanker_size,buildyear
+8727941,Kapitan Pshenitsyn,Handysize,1987
+8727953,Kapitan Permjakov,Handysize,1987
+8727965,Kapitan Schemilkin,Handysize,1989
+8867179,Mekhanik Voronkov,Handysize,1971
+8906951,Zaliv Nakhodka,Handysize,1990
+8914855,Argo,Handysize,1990
+9004310,Oris,Handysize,1992
+9016870,Amollit,Handysize,1995
+9017666,Riwa,Handysize,1992
+9035541,Marshal Tukhachevskiy,Handysize,1997
+9040077,Callisto,Seawaymax,1992
+9046576,Yaroslav Mydryy,Seawaymax,1993
+9056571,Immanuel,Handysize,1995
+9063732,Kapitan Sosenkov,Handysize,1998
+9104782,Kazan City,Handysize,1996
+9105140,Taimyr,Seawaymax,1996
+9114751,Samson,Handysize,1996
+9131357,Orion,Suezmax,1997
+9133587,Pablo,Aframax,1997
+9137648,Caruzo,Suezmax,1998
+9144782,Robon,Aframax,1997
+9163752,Aram Khachaturian,Seawaymax,1999
+9166314,Astoria,Seawaymax,1999
+9168946,Zevs,Suezmax,1999
+9171175,Cilicia,Seawaymax,2000
+9171357,Divine Power,Seawaymax,2000
+9171735,Hamsi,Handysize,1998
+9175078,Zambra,Suezmax,1999
+9183271,Iona,Suezmax,2000
+9183295,Neon,Aframax,1999
+9183831,Np Dudinka,Seawaymax,2000
+9185528,Limo,Suezmax,2000
+9186625,Loura B,Seawaymax,1999
+9187227,Omega,Suezmax,2000
+9189146,Memphis,Suezmax,2001
+9194012,Anabar,Seawaymax,2002
+9194983,Deliver,Suezmax,2000
+9194995,Ocean Peri,Suezmax,2000
+9198290,Md Miranda,Seawaymax,1999
+9198783,Boray,Panamax,2000
+9199713,Eliak,Aframax,1999
+9205067,Raven,Suezmax,2001
+9206671,Elbrus,Aframax,2001
+9207027,Vernal,Suezmax,2000
+9208069,Stellar Beverly,Suezmax,2000
+9208124,Sky Rider,Seawaymax,2000
+9209972,Temiro,Seawaymax,2000
+9211896,Caspian Sprinter,Handysize,1999
+9211999,Sanar7,Aframax,2000
+9212008,Sanar8,Aframax,2000
+9213296,Bright Sonia,Aframax,2001
+9213313,Albedo,Aframax,2001
+9215098,Myri Joy,Seawaymax,2000
+9217319,Ivan Poddubny,Handysize,2001
+9217321,Nikolay Shalavin,Handysize,2001
+9218181,Tomie,Panamax,2000
+9220938,Marbel,Seawaymax,2001
+9222560,Cheetah Ii,Seawaymax,2000
+9224283,Kapal Cantik,Suezmax,2002
+9224441,Firn,Suezmax,2002
+9224465,Neve,Suezmax,2002
+9227443,Innova,Suezmax,2002
+9228332,Caspian Stream,Handysize,2000
+9229374,Odune,Suezmax,2002
+9230971,Skadi,Aframax,2001
+9231212,Mermar,Aframax,2002
+9231468,Giuse,Aframax,2002
+9231509,Spm Strength,Suezmax,2002
+9231767,Camelia,Suezmax,2002
+9232888,Ksena,Aframax,2003
+9232929,Maisha,Suezmax,2002
+9232931,Narcissus,Suezmax,2003
+9233349,Vesna,Aframax,2000
+9233741,Hali,Suezmax,2003
+9233765,Aulis,Suezmax,2003
+9234501,Sealion I,Seawaymax,2002
+9234642,Orbit I,Suezmax,2003
+9235684,Caspian Leader,Handysize,2000
+9235713,Amber 6,Aframax,2003
+9235725,Fuga Bluemarine,Aframax,2003
+9236004,Katiuska,Suezmax,2002
+9236016,VISION,Suezmax,2003
+9236353,Blue,Suezmax,2003
+9236640,Onyx,Seawaymax,2003
+9236743,Primorye,Seawaymax,2001
+9236755,Liana,Seawaymax,2002
+9237228,Rhea,Aframax,2002
+9237412,Hontao,Aframax,2004
+9239642,Levias,Seawaymax,2003
+9240407,Roana,Aframax,2003
+9240885,East 1,Seawaymax,2002
+9242118,Shanaye Queen,Aframax,2003
+9242120,Nyantara,Aframax,2003
+9242223,Shun Tai,Aframax,2003
+9246475,Sure,Seawaymax,2003
+9247065,Doris,Seawaymax,2003
+9247431,Wilma Ii,Suezmax,2004
+9247778,Iris,Seawaymax,2002
+9247780,Turaco,Aframax,2003
+9247792,LALIQUE,Aframax,2003
+9247883,Elza,Aframax,2002
+9248796,Sprit,Seawaymax,2003
+9248801,Atacama,Seawaymax,2003
+9248849,Swordfish,Aframax,2004
+9249087,Hs Glory,Suezmax,2005
+9249128,Sakhalin Island,Aframax,2004
+9249130,Chilli,Aframax,2004
+9249312,Misca,Suezmax,2001
+9249324,Cathay Phoenix,Suezmax,2001
+9250531,Python,Aframax,2004
+9250543,Neomi,Aframax,2004
+9250892,Lucia,Aframax,2003
+9250907,Rani,Aframax,2003
+9251274,Crius,Aframax,2003
+9251456,Daphne I,Seawaymax,2003
+9251810,Cross Ocean,Aframax,2002
+9252400,Onyx,Seawaymax,2002
+9252436,Starry,Seawaymax,2003
+9253076,Mira,Aframax,2003
+9253234,Glyfada,Seawaymax,2003
+9253313,Arabela,Aframax,2003
+9253325,Nurkez,Aframax,2004
+9253595,Paprika,Seawaymax,2003
+9253894,Destamar,Suezmax,2002
+9253909,James Ii,Suezmax,2002
+9254915,Martina,Aframax,2004
+9255244,Bolognia Falcon,Seawaymax,2003
+9255268,Andrey Pervozvanniy,Seawaymax,2003
+9255270,Np Dikson,Seawaymax,2004
+9255660,Pontus I,Aframax,2004
+9255672,Lebre,Aframax,2004
+9255830,Sea Marine 1,Seawaymax,2003
+9256028,Seginus,Panamax,2003
+9256054,Nevskiy Prospect,Aframax,2003
+9256066,Ligovsky Prospect,Aframax,2003
+9256078,Liteyny Prospect,Aframax,2003
+9256913,Rio Napo,Seawaymax,2003
+9257022,Laconia,Aframax,2003
+9257137,Auriga,Suezmax,2003
+9257814,Torex,Aframax,2003
+9257993,Mistral 1,Aframax,2003
+9258002,Kazan,Aframax,2003
+9258026,Ederra,Seawaymax,2003
+9258167,Troitsky Bridge,Seawaymax,2003
+9258868,Asher,Aframax,2003
+9258870,Lelia,Aframax,2003
+9258882,Legend,Aframax,2003
+9259185,Hebe,Aframax,2002
+9259197,Thalia Iii,Aframax,2003
+9259599,Hai Ii,Aframax,2003
+9259733,Snow Lotus,Suezmax,2004
+9259745,Eternal Peace,Suezmax,2004
+9259991,Sezar,Seawaymax,2003
+9260275,Blue Sun,Seawaymax,2004
+9260823,Future,Aframax,2004
+9261401,Siren,Seawaymax,2003
+9261657,C Viking,Seawaymax,2004
+9262170,Mercury,Handysize,2004
+9262924,Linda I,Aframax,2002
+9263186,Seal,Seawaymax,2004
+9263198,Saint,Seawaymax,2004
+9263203,Soul,Seawaymax,2004
+9263643,Frunze,Aframax,2003
+9264570,Themis,Aframax,2002
+9265756,Life,Aframax,2005
+9265873,Kamelot,Seawaymax,2004
+9265885,Sea Maverick,Seawaymax,2004
+9266475,Sauri,Seawaymax,2003
+9266750,Magic Lady,Panamax,2004
+9266762,Jag,Panamax,2005
+9266853,Nereus Sophia,Aframax,2004
+9268112,Olia,Aframax,2003
+9269257,Lara Ii,Panamax,2004
+9269350,Kapitan Barmin,Handysize,2002
+9269403,M K A,Seawaymax,2003
+9270517,Seagull,Aframax,2003
+9270529,Krymsk,Aframax,2003
+9270749,Gauri,Seawaymax,2004
+9271327,Cup,Aframax,2003
+9271573,ADEBOMI,Suezmax,2004
+9271585,Heracles,Suezmax,2004
+9271951,Facca,Seawaymax,2004
+9272931,Pericles,Seawaymax,2004
+9273052,Danica,Aframax,2003
+9273442,Beks Lotus,Panamax,2004
+9274434,Nanda Devi,Suezmax,2003
+9274446,Hs Star,Suezmax,2004
+9274616,La Pride,Aframax,2004
+9274666,Kocatepe,Seawaymax,2005
+9274800,Yangtze,Aframax,2004
+9275402,Chai,Panamax,2004
+9275658,Purdue Stellar,Panamax,2004
+9275763,Beks Solar,Panamax,2004
+9275995,Oceanic II,Seawaymax,2003
+9276028,Pamir,Seawaymax,2004
+9276030,Elbrus,Seawaymax,2004
+9277735,Beks Aqua,Panamax,2004
+9277747,Elise,Panamax,2004
+9277759,Lea I,Panamax,2004
+9277761,Super Ever,Panamax,2004
+9277773,Fair World,Panamax,2004
+9278064,Saga,Seawaymax,2004
+9278959,Nizhniy Novgorod,Handysize,2002
+9279719,Sea Helios,Seawaymax,2004
+9280586,Beks Ocean,Panamax,2004
+9281011,Oriental Pearl,Aframax,2004
+9281425,Beks Bebek,Panamax,2005
+9281891,Merope,Aframax,2003
+9282041,Abhra,Aframax,2004
+9282479,Minerva M,Aframax,2005
+9282481,Priapus,Aframax,2005
+9282493,Vaigai,Aframax,2005
+9282522,Baxter,Seawaymax,2004
+9282986,Atlanticos,Seawaymax,2004
+9283241,Eurodignity,Suezmax,2004
+9283289,Thya,Aframax,2005
+9283291,Tiburon,Aframax,2005
+9284116,Shah Ismayil Khatai,Seawaymax,2005
+9284130,Babek,Seawaymax,2004
+9284582,Panda,Aframax,2004
+9284594,Leopard,Aframax,2004
+9284726,Bonifacy,Seawaymax,2004
+9285835,Sea Fidelity,Aframax,2005
+9285847,Sirius 1,Aframax,2005
+9285859,Eastern Pearl,Aframax,2006
+9286023,Beks Wind,Panamax,2004
+9286657,Dynamik Trader,Suezmax,2005
+9288356,Beks Lily,Panamax,2005
+9288693,Andaman Skies,Aframax,2004
+9288708,Stratos Aurora,Aframax,2005
+9288710,Kudos Stars,Aframax,2005
+9288722,Azure Celeste,Aframax,2005
+9288734,Arabesca,Aframax,2005
+9288746,Marathon,Aframax,2005
+9288851,Carl,Aframax,2004
+9288899,Rocky Runner,Suezmax,2005
+9288930,Pacificos,Seawaymax,2004
+9288980,SanktPetersburg,Handysize,2003
+9288992,Suzdal,Handysize,2003
+9289001,Rostovchanin,Handysize,2003
+9289518,Phonix Way,Seawaymax,2005
+9289520,Canis Power,Seawaymax,2005
+9289532,Lupus Two,Seawaymax,2005
+9289738,Sappho,Seawaymax,2005
+9289752,Ariadne,Panamax,2005
+9289776,Maisan,Panamax,2005
+9290309,Thea,Aframax,2004
+9290335,Jumbo,Suezmax,2004
+9290373,KONYA,Suezmax,2005
+9290517,Horai,Seawaymax,2005
+9290828,Voula,Seawaymax,2005
+9290921,Beast,Seawaymax,2005
+9291250,Line,Aframax,2005
+9291640,Mando One,Seawaymax,2005
+9292034,Tower Bridge,Seawaymax,2004
+9292046,Torgovy Bridge,Seawaymax,2005
+9292058,Teatralny Bridge,Seawaymax,2006
+9292060,Tavrichesky Bridge,Seawaymax,2006
+9292199,Kayseri,Suezmax,2005
+9292204,Adygeya,Aframax,2005
+9292503,Panther I,Aframax,2005
+9292577,Ricca,Seawaymax,2005
+9292589,Team,Seawaymax,2005
+9292620,Pavo Rock,Seawaymax,2005
+9292838,Petronilla,Seawaymax,2005
+9292967,Aquilla Major,Seawaymax,2005
+9293002,Jaguar,Aframax,2005
+9293117,Sun,Suezmax,2005
+9293155,Junia,Aframax,2005
+9293337,Saturn A,Seawaymax,2004
+9293959,Fotuo,Seawaymax,2006
+9293997,Khalasi,Seawaymax,2006
+9294123,Chongchon,Seawaymax,2006
+9296391,Fighter Two,Suezmax,2006
+9296406,Pagos,Suezmax,2006
+9296585,Sensus,Seawaymax,2005
+9296597,Prometei,Seawaymax,2005
+9296810,Missoni,Aframax,2005
+9296822,Sagitta,Aframax,2005
+9297199,Aslan Khadarcev,Handysize,2004
+9297345,Ursus Maritimus,Aframax,2005
+9297357,Hammurabi,Aframax,2006
+9297371,Suleyman I,Aframax,2006
+9297888,CORDELIA MOON,Suezmax,2006
+9298272,Valente,Panamax,2005
+9298492,Toa Payoh,Seawaymax,2005
+9299123,Sofia K,Panamax,2005
+9299173,Veles,Handysize,2004
+9299666,Mianzimu,Suezmax,2005
+9299678,Prisma,Suezmax,2005
+9299692,Ns Concord,Aframax,2005
+9299719,Ns Champion,Aframax,2005
+9299721,Cepheus,Aframax,2006
+9299733,Antaeus,Aframax,2006
+9299745,Hs Arge,Aframax,2006
+9299769,Aquatica,Aframax,2005
+9299862,Irbis,Seawaymax,2006
+9299874,Beks Rose,Seawaymax,2005
+9299886,Wall,Seawaymax,2005
+9299898,Turbo Voyager,Aframax,2005
+9299903,DEYNA,Aframax,2005
+9301380,Pavel Chernysh,Aframax,2005
+9301392,Captain Kostichev,Aframax,2005
+9301407,Viktor Titov,Aframax,2005
+9301419,Yuri Senkevich,Aframax,2005
+9301421,Victor Konetsky,Aframax,2005
+9301524,Palmer,Suezmax,2006
+9302126,Rainbow,Seawaymax,2005
+9304356,Hera 1,Aframax,2005
+9304629,Cheng He,Suezmax,2007
+9304825,Theseus,Aframax,2006
+9305568,Scf Baltica,Aframax,2005
+9305609,Celine,Aframax,2006
+9306457,Annabelle,Seawaymax,2005
+9306562,Pone,Panamax,2005
+9306627,Huang He,Aframax,2007
+9306782,Ns Century,Aframax,2006
+9306794,Ns Commander,Aframax,2006
+9307815,Electra,Seawaymax,2005
+9308065,Charvi,Suezmax,2006
+9308077,Tyche 1,Suezmax,2006
+9308132,Unite,Seawaymax,2006
+9308170,Ocean Jupiter,Seawaymax,2007
+9308821,Berra,Aframax,2005
+9308833,Kusto,Aframax,2005
+9308857,Rymo,Aframax,2006
+9309576,Ns Silver,Seawaymax,2005
+9309588,Ns Stella,Seawaymax,2005
+9310525,Ionia,Aframax,2006
+9310707,Beks Bodrum,Seawaymax,2005
+9311531,Lefkada,Aframax,2005
+9311622,Vladimir Tikhonov,Suezmax,2006
+9311751,Antiochia Ka,Seawaymax,2006
+9312872,Huihai Atlantic,Aframax,2007
+9312884,Ns Columbus,Aframax,2007
+9312896,Ns Creation,Aframax,2007
+9312913,Coast Buster,Seawaymax,2006
+9313462,Melahat,Seawaymax,2007
+9314088,Lyra,Aframax,2004
+9314105,Makalu,Aframax,2005
+9314167,Agnes,Panamax,2007
+9314179,Lion S,Panamax,2007
+9314727,Armada Navigator,Handysize,2004
+9314818,Mona,Seawaymax,2006
+9314820,Baltic Mariner I,Seawaymax,2006
+9314882,Mystras,Seawaymax,2006
+9314894,Mythos,Seawaymax,2006
+9315446,Mum,Aframax,2005
+9315654,Kapok,Suezmax,2005
+9315745,Marquise,Seawaymax,2006
+9315769,The Sauce,Seawaymax,2007
+9316127,Scf Vankor,Suezmax,2007
+9317949,Artemis,Aframax,2007
+9318022,Charminar,Seawaymax,2006
+9318034,Olive,Seawaymax,2006
+9318539,Swiftsea Rider,Suezmax,2007
+9318541,Ns Stream,Seawaymax,2006
+9318553,Ns Spirit,Seawaymax,2006
+9319674,Eastern Glory,Aframax,2007
+9319686,Nemo 1,Aframax,2008
+9319703,Great Jacombo,Aframax,2008
+9319870,Thalassa,Aframax,2007
+9319882,Atalanta,Aframax,2007
+9321172,Velos Ruby,Panamax,2007
+9321689,Ocean Faye,Aframax,2007
+9321691,Sai Baba,Suezmax,2006
+9321706,Mercury,Suezmax,2006
+9321847,Emily S,Aframax,2006
+9321976,Heidi A,Aframax,2006
+9322827,Peria,Aframax,2006
+9322839,Hs Atlantica,Aframax,2006
+9322956,Ns Pride,Seawaymax,2006
+9322968,Ns Power,Seawaymax,2006
+9323314,Aditya,Seawaymax,2006
+9323326,Katy,Seawaymax,2006
+9323338,Uze,Seawaymax,2006
+9323340,Tranquil Sea,Seawaymax,2007
+9323352,Nari Strength,Seawaymax,2007
+9323364,Sinar G,Seawaymax,2007
+9323376,Marabella Sun,Seawaymax,2007
+9323986,Alicia,Aframax,2007
+9326718,Caro,Suezmax,2007
+9326720,Hera,Suezmax,2007
+9326861,Duke Of Peace,Panamax,2006
+9326885,Anaya,Panamax,2008
+9327360,Caria Ka,Seawaymax,2006
+9327372,Zelda,Seawaymax,2006
+9327384,Lycia Ka,Seawaymax,2006
+9327413,Aristo,Seawaymax,2006
+9327437,Aston Marine,Seawaymax,2006
+9327449,Fair Wonder,Seawaymax,2006
+9328132,Sino Prosperity,Seawaymax,2006
+9329655,Ns Point,Seawaymax,2008
+9329667,Ns Parade,Seawaymax,2008
+9329758,Norstar Integrity,Panamax,2006
+9330472,Thorin,Aframax,2007
+9331141,Vela Rain,Aframax,2006
+9331153,Galian 2,Aframax,2007
+9332028,Aruna Zehra,Seawaymax,2007
+9332614,Srini,Panamax,2008
+9332638,Chrystal Ice,Panamax,2009
+9332640,Chrystal Arctic,Panamax,2010
+9332781,Panta Rei 1,Aframax,2006
+9332810,Odysseus,Aframax,2007
+9332822,Nichole,Aframax,2007
+9332834,Wisdoms Daughter,Aframax,2007
+9333400,Scf Neva,Seawaymax,2006
+9333412,Scf Yenisei,Seawaymax,2007
+9333424,Scf Pechora,Seawaymax,2007
+9333436,Scf Amur,Seawaymax,2007
+9334296,Northsea 1,Handysize,2006
+9334557,Lydia,Panamax,2007
+9334569,Chrystal Sky,Panamax,2008
+9334789,The Loop,Seawaymax,2007
+9335094,Wudi,Seawaymax,2006
+9336426,Naxos,Aframax,2007
+9336517,Lake Sturgeon,Panamax,2007
+9337327,Jazz,Seawaymax,2006
+9337389,Glaucus,Aframax,2007
+9337901,Golden Mile,Aframax,2006
+9338905,Shaanxi,Aframax,2007
+9339301,Ns Leader,Aframax,2007
+9339313,Ns Lion,Aframax,2007
+9339325,Ns Laguna,Aframax,2007
+9339337,Ns Lotus,Aframax,2008
+9341067,Ns Captain,Aframax,2006
+9341079,Ns Corona,Aframax,2006
+9341081,Ns Clipper,Aframax,2006
+9341093,Ns Consul,Aframax,2006
+9342657,Dahi Byulbyul,Handysize,2005
+9344033,Tverskoy Bridge,Seawaymax,2007
+9344100,Elijah,Seawaymax,2007
+9345623,Tarang,Aframax,2008
+9346720,Kira K,Aframax,2007
+9346732,Huihai Pacific,Aframax,2007
+9346744,Ma Jin,Aframax,2007
+9346873,Aquarius Ii,Aframax,2008
+9347231,Koroglu,Seawaymax,2006
+9347243,Dede Gorgud,Seawaymax,2006
+9347308,Aura Maris,Seawaymax,2008
+9348479,Lucky Fairy,Aframax,2006
+9350654,Surrey Quays,Aframax,2007
+9350850,Pelagic Taimen,Seawaymax,2006
+9352195,Lagoon,Seawaymax,2007
+9353096,Zeynep,Seawaymax,2008
+9353113,Hana,Seawaymax,2008
+9353125,Nargis,Seawaymax,2008
+9354301,Zaliv Amerika,Aframax,2008
+9354313,Zaliv Amurskiy,Aframax,2008
+9354521,Anhona,Seawaymax,2008
+9354636,Flura,Handysize,2005
+9356610,Alexander Nevskiy,Seawaymax,2008
+9356751,Tuna,Seawaymax,2007
+9359387,Gulf Mishref,Seawaymax,2010
+9360128,Zaliv Baikal,Aframax,2009
+9360130,Zaliv Vostok,Aframax,2009
+9360415,Kallos,Seawaymax,2007
+9368223,Achilles,Aframax,2008
+9374844,Norstar Invictus,Panamax,2007
+9374868,Elephant,Aframax,2007
+9375575,Sino Faith,Seawaymax,2008
+9377042,Armada Explorer,Handysize,2006
+9378618,Si He,Aframax,2008
+9378620,Varvara,Aframax,2008
+9378632,Ping An,Aframax,2009
+9379052,Ocean Autumn,Seawaymax,2009
+9380673,Centurion,Aframax,2008
+9381732,Hs Buraq,Aframax,2008
+9381744,Hs Legend,Aframax,2008
+9382073,Antares I,Seawaymax,2008
+9382712,Denver,Seawaymax,2007
+9382798,Transsib Bridge,Seawaymax,2008
+9383950,Elegance,Aframax,2009
+9384095,Ragnar,Seawaymax,2008
+9384306,Scf Ussuri,Seawaymax,2009
+9384459,Ji Xiang,Seawaymax,2010
+9385142,Scf Don,Seawaymax,2009
+9386536,Spring Fortune,Aframax,2009
+9387255,Beks Daisy,Aframax,2008
+9387279,Ethera,Seawaymax,2008
+9388730,Savir Tiger,Aframax,2008
+9388742,Hector,Aframax,2008
+9388754,Wei Feng,Aframax,2008
+9388766,Destan,Aframax,2008
+9388780,Khalissa,Aframax,2009
+9388792,March,Aframax,2009
+9389679,LIETO,Aframax,2008
+9390587,Oneiroi,Aframax,2008
+9392822,Himalayan,Aframax,2008
+9393668,Waler,Handysize,2008
+9394935,Ocean Amz,Aframax,2008
+9395379,Pacific 01,Aframax,2008
+9396672,Fair Star,Panamax,2008
+9396775,Elegant Grace,Seawaymax,2009
+9397535,Scf Irtysh,Seawaymax,2009
+9397547,Scf Anadyr,Seawaymax,2008
+9397559,Scf Angara,Seawaymax,2008
+9397676,Nasimi,Seawaymax,2006
+9402469,Anavatos Ii,Aframax,2009
+9402471,Andromeda Star,Aframax,2009
+9404948,Bambu,Aframax,2009
+9405057,TAI SHAN,Aframax,2008
+9408205,Fast Kathy,Suezmax,2010
+9408695,Bay Global,Suezmax,2009
+9409467,Bowfin,Panamax,2008
+9410870,Hs Everett,Aframax,2008
+9410894,Hs Esberg,Aframax,2009
+9411020,Ns Burgas,Suezmax,2009
+9411331,Cankiri,Suezmax,2009
+9412335,Ns Bora,Suezmax,2010
+9412347,Leonid Loza,Suezmax,2011
+9412359,Belgorod,Suezmax,2010
+9412995,Osperous,Aframax,2009
+9413547,Ns Arctic,Aframax,2009
+9413559,Ns Antarctic,Aframax,2009
+9413561,Ns Asia,Aframax,2009
+9413573,Ns Africa,Aframax,2009
+9416422,Ocean Thunder,Suezmax,2009
+9417464,Aion,Aframax,2009
+9418482,Ride,Aframax,2009
+9418494,Zaliv Aniva,Aframax,2009
+9419137,Sivas,Aframax,2010
+9419448,Heng Tai,Aframax,2009
+9419723,Fair Breeze,Seawaymax,2009
+9420617,Zangazur,Aframax,2010
+9421960,Scf Primorye,Suezmax,2009
+9421972,Scf Samotlor,Suezmax,2010
+9422445,Scf Surgut,Suezmax,2009
+9422457,Scf Baikal,Suezmax,2010
+9422988,Volans,Aframax,2009
+9423736,Fidan,Seawaymax,2009
+9424651,Manta,Seawaymax,2009
+9428358,Mastic,Seawaymax,2009
+9434890,Nautilus,Aframax,2010
+9435337,Akhty,Handysize,2008
+9435349,Don River,Handysize,2008
+9435351,Ob River,Handysize,2008
+9435363,Volga River,Handysize,2008
+9435375,Irtysh River,Handysize,2009
+9436006,Samsun,Aframax,2009
+9436018,Huihai Indianocean,Aframax,2009
+9436941,Attica,Aframax,2010
+9439400,Casper,Aframax,2010
+9441958,Marmea,Handysize,2008
+9449649,Gloriwind,Handysize,2007
+9449651,Gloristar,Handysize,2008
+9457804,Sanar3,Handysize,2010
+9493377,Thracia Ka,Seawaymax,2008
+9498171,Zengezur,Seawaymax,2008
+9511387,Olympiysky Prospect,Aframax,2010
+9511521,Moskovsky Prospect,Aframax,2010
+9511533,Primorsky Prospect,Aframax,2010
+9513139,Fjord Seal,Suezmax,2011
+9517070,Titan,Handysize,2009
+9522324,Suvorovsky Prospect,Aframax,2011
+9524451,Sable,Suezmax,2011
+9524463,Sakarya,Suezmax,2011
+9530917,Salty Wolf,Suezmax,2013
+9540302,Calliope,Handysize,2010
+9540340,Dafne,Handysize,2010
+9540352,Teti,Handysize,2010
+9540364,Penelope,Handysize,2010
+9544281,Corum,Aframax,2010
+9547506,Elegant Voyager,Seawaymax,2009
+9550682,Xing Chen,Panamax,2009
+9577082,Scf Prime,Panamax,2011
+9577094,Scf Provider,Panamax,2011
+9585273,Enisey,Seawaymax,2011
+9585912,Marlin,Handysize,2020
+9589750,Li Bai,Suezmax,2011
+9593921,Cloe,Handysize,2011
+9599341,Svl Pride,Handysize,2010
+9599353,Venus I,Handysize,2011
+9602825,Gloria,Handysize,2011
+9607710,Sea Star,Aframax,2012
+9610781,Nikolay Zuyev,Suezmax,2012
+9610793,Georgy Maslov,Suezmax,2012
+9610808,Anatoly Kolodkin,Aframax,2013
+9610810,Viktor Bakaev,Aframax,2013
+9612909,Aleksandr Shemagin,Handysize,2012
+9612911,Pavel Yudin,Handysize,2012
+9612923,Yuliy Makarenkov,Handysize,2013
+9616955,Garmonia,Handysize,2012
+9621558,Almetyevsk,Handysize,2013
+9621560,Bavly,Handysize,2013
+9621596,Stanislav Govorukhin,Seawaymax,2016
+9624304,Assia,Handysize,2012
+9624316,Aura,Handysize,2012
+9637583,Kore,Handysize,2012
+9637961,Sergey Terskov,Handysize,2016
+9637973,Yakov Gunin,Handysize,2016
+9640516,Vf Tanker3,Handysize,2012
+9640528,Vf Tanker4,Handysize,2012
+9640530,Vf Tanker5,Handysize,2012
+9640542,Vf Tanker6,Handysize,2012
+9640566,Vf Tanker8,Handysize,2012
+9640578,Vf Tanker9,Handysize,2012
+9640580,Viktor Vasnetsov,Handysize,2013
+9645009,Vf Tanker11,Handysize,2012
+9645011,Vf Tanker12,Handysize,2012
+9645023,Vf Tanker13,Handysize,2012
+9645035,Vf Tanker14,Handysize,2012
+9645047,Bm Flot 3,Handysize,2012
+9645061,Vf Tanker17,Handysize,2013
+9645114,Sanar 19,Handysize,2013
+9645982,Liberty,Handysize,2013
+9655468,Loyalty,Handysize,2013
+9655470,Saturn I,Handysize,2013
+9683714,Valentin Gruzdev,Handysize,2014
+9683726,Dmitry Pokrovsky,Handysize,2014
+9690212,Stalingrad,Handysize,2014
+9735139,Midvolga2,Handysize,2014
+9749154,Kupava,Handysize,2017
+9759939,Shturman Koshelev,Seawaymax,2017
+9766073,Nikolay Gamayunov,Handysize,2016
+9766085,Nikolay Velikiy,Handysize,2018
+9777656,Sanar 16,Handysize,2015
+9779941,Shusha,Aframax,2017
+9810513,Karabakh,Aframax,2018
+9813565,GANJA,Handysize,2016
+9821469,Lachin,Handysize,2020
+9821471,Kalbajar,Handysize,2021
+9826902,Korolev Prospect,Aframax,2019
+9832547,Venture,Aframax,2018
+9832559,VALOUR,Aframax,2018
+9842176,Vladimir Monomakh,Aframax,2020
+9842188,Vladimir Vinogradov,Aframax,2022
+9842190,Akademik Gubkin,Aframax,2023
+9843560,Vernadsky Prospect,Aframax,2019
+9846237,Balt Flot 20,Handysize,2018
+9866380,Okeansky Prospect,Aframax,2022
+9866392,Vostochny Prospect,Aframax,2023
+9901025,Vladimir Arsenyev,Suezmax,2022
+9901037,Nikolay Zadornov,Suezmax,2022
+9904106,Gloriland,Handysize,2021
+9917402,Glorisea,Handysize,2021
+9981087,Chang Yue 1,Seawaymax,2023
