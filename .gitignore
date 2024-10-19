@@ -1,11 +1,13 @@
 __pycache__
 .env
 data/raw_gfw/
+data/bloomberg/
+data/neo4j
 data/geo/
 data/equasis/
 data/*.csv
 .DS_Store/
 data/processed/
 DS_Store
+DS_Store/
 docker-compose.overide.yml
-neo4j/

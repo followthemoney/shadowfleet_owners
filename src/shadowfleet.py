@@ -203,6 +203,7 @@ def get_events(vessel_id: str,
         r = requests.get(ENDPOINT + url, headers=headers)
     except:
         print(f'Failed at {vessel_id}')
+        
 
     if r.status_code == 200:
         result = r.json()

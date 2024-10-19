@@ -12,7 +12,7 @@ services:
       - NEO4J_apoc_import_file_use__neo4j__config=true
       - NEO4J_PLUGINS=["apoc", "graph-data-science"]
     volumes:
-      - $HOME/Documents/Projecten/shadowfleet/neo4j/data:/data
-      - $HOME/Documents/Projecten/shadowfleet/neo4j/logs:/logs
-      - $HOME/Documents/Projecten/shadowfleet/neo4j/import:/var/lib/neo4j/import
-      - $HOME/Documents/Projecten/shadowfleet/neo4j/plugins:/plugins
+      - $HOME/Documents/Projecten/shadowfleet_owners/data/neo4j/data:/data
+      - $HOME/Documents/Projecten/shadowfleet_owners/data/neo4j/logs:/logs
+      - $HOME/Documents/Projecten/shadowfleet_owners/data/processed:/var/lib/neo4j/import
+      - $HOME/Documents/Projecten/shadowfleet_owners/data/neo4j/plugins:/plugins
