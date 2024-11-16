@@ -140,7 +140,7 @@ def get_vessels(query: List,
             result = r.json()
             result.update({'query': q})
             results.append(result)
-            filename = PATH_DATA.joinpath(filename)
+            filename = filename
             with open(filename, 'a') as file:
                 file.write(f'{result}\n')
 
@@ -208,8 +208,6 @@ def get_events(vessel_id: str,
     if r.status_code == 200:
         result = r.json()
         result.update({'query': vessel_id})
-        filepath = filename
-        filename = PATH_DATA.joinpath(filename + '.json')
         with open(filename, 'a') as file:
             file.write(f'{result}\n')
 
@@ -221,3 +219,67 @@ def get_events(vessel_id: str,
             logging.error(f'Something went wrong with query: {vessel_id} --> status code: {r.status_code} - reason: {r.reason}\nplease check')
 
     return None
+
+def get_events_by_geometry(start_date: str,
+                            end_date: str,
+                            event_type: str,
+                            filename,
+                            flag: List = None,
+                            geometry: Dict  = None,
+                            region: Dict = None
+                            )-> pd.DataFrame:
+
+    ENDPOINT = 'https://gateway.api.globalfishingwatch.org/v3/events?'
+
+    headers = {'Authorization': f"Bearer {GFW_API_KEY}",
+               'Content-Type': 'application/json'}
+
+    
+    if event_type == 'encounter':
+        dataset = 'public-global-encounters-events:latest'
+    elif event_type == 'fishing': 
+        dataset = 'public-global-fishing-events:latest'
+    elif event_type == 'loitering':
+        dataset = 'public-global-loitering-events:latest'
+    elif event_type == 'port_visits':
+        dataset = 'public-global-port-visits-c2-events:latest'
+    elif event_type == 'ais':
+        dataset = 'public-global-gaps-events:latest&gap-intentional-disabling=True'
+    else:
+        raise ValueError(f'Event type must be "encounter", "fishing", "loitering", "port_visits" or "ais" not {event_type}')
+
+    url = f'limit=99999&offset=0'
+
+    data = {"datasets": [ f"{dataset}" ],
+            "startDate": f"{start_date}",
+            "endDate": f"{end_date}",
+            "vesselTypes": [ 'BUNKER','CARGO','DISCREPANCY','CARRIER','FISHING','GEAR','OTHER','PASSENGER','SEISMIC_VESSEL','SUPPORT' ]
+            }
+    
+    if flag is not None:
+        flags = ','.join(flag)
+        data.update({'flags': [ f"{flags}" ]})
+    
+    if region is not None:
+        data.update({'region': {'id': region,
+                                'dataset': 'public-eez-areas'}})
+    elif geometry is not None:
+        data.update({'geometry': geometry})
+    
+    r = requests.post(ENDPOINT + url, headers=headers, data=json.dumps(data))
+
+    if r.status_code == 200 or r.status_code==201:
+        result = r.json()
+        with open(filename, 'a') as file:
+            file.write(f'{result}\n')
+
+        df = pd.json_normalize(result.get('entries'))
+    
+        return df
+
+    elif r.status_code != 200: 
+            print(r.text)               
+            logging.error(f'Something went wrong --> status code: {r.status_code} - reason: {r.reason}\nplease check')
+
+    return None
+    

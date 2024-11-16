@@ -5,6 +5,7 @@ data/bloomberg/
 data/neo4j
 data/geo/
 data/equasis/
+data/oil_flows/
 data/*.csv
 .DS_Store/
 data/processed/

@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "shadowfleet-owners"
+version = "0.1.0"
+description = "Research into the ownership of the shadowfleet"
+authors = ["Dimitri Tokmetzis <dimitri.tokmetzis@ftm.nl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.32.3"
+geopandas = "^1.0.1"
+pandas = "^2.2.3"
+openpyxl = "^3.1.5"
+plotly = "^5.24.1"
+pdfplumber = "^0.11.4"
+shapely = "^2.0.6"
+neo4j = "^5.26.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
