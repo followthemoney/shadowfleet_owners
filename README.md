@@ -1,10 +1,10 @@
 # Shadowfleet owners
 
-This repository is part of an international investigation into the owernship of the Russian shadowfleet. We are interested in who sold shadowfleet vessels to whom or which companies have been managing the fleet. This is quite hard to figure out, because of the opacity of ownership structures. With this repository we want to get as far as we can get with publicly available data. 
+This repository is part of an international investigation into the owernship of the Russian shadowfleet. We are interested in who sold shadowfleet vessels to whom or which companies have been managing the fleet. This is quite hard to figure out, because of the opacity of ownership structures. With this repository we want to get as far as we can get with publicly available data.
 
 ## Definition
 
-A vessel is part of the shadowfleet if it carries Russian crude or oil products above the price cap, while under or uninsured. 
+A vessel is part of the shadowfleet if it carries Russian crude or oil products above the price cap, while under or uninsured.
 
 ## Data sources and caveats
 
@@ -26,14 +26,15 @@ These documents don't show previous vessels these company have managed or owned.
     - loitering behavior
     - historical tracks (AIS)
     - ais off switching events
+    These events are the result of calculations on AIS signals performed by Global Fishing Watch. This means that the data is probabilistic and should be treated as such. Also AIS data can be spoofed, so if the exact location is important for the story, please double check with other sources. [Here](https://globalfishingwatch.org/datasets-and-code/) you can find more information on the GFW data.
 
-These events are the result of calculations on AIS signals performed by Global Fishing Watch. This means that the data is probabilistic and should be treated as such. Also AIS data can be spoofed, so if the exact location is important for the story, please double check with other sources. [Here](https://globalfishingwatch.org/datasets-and-code/) you can find more information on the GFW data. 
+5. Vessel particulars downloaded from IHS. These files are quite similar to the Equasis vessel files (which uses IHS as a source), but also contain information on beneficial ownership. In our experience the IHS data is more reliable than the Equasis data, but we got these files in a late stage of our research.
 
-Additionally I've used geometries of well known ship to ship transfer locations (Gulf of Laconia, Malta, Augusta, Lome, Dakar and Johor) to identify long stays of vessels. Vessels that were just passing through are deleted from this dataset. 
+Additionally I've used geometries of well known ship to ship transfer locations (Gulf of Laconia, Malta, Augusta, Lome, Dakar and Johor) to identify long stays of vessels. Vessels that were just passing through are deleted from this dataset.
 
 ## The code
 
-This is a big project, so I've created a lot of code. 
+This is a big project, so I've created a lot of code and tried some different approaches, some of which weren't used in the end product.
 
 - Data acquisition code (GFW) can be found in [shadowfleet.py](src/shadowfleet.py)
 - Several notebooks can be found in [notebooks](notebooks/):
