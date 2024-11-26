@@ -44,3 +44,8 @@ This is a big project, so I've created a lot of code and tried some different ap
   - [Some preliminary analysis](notebooks/analysis.ipynb)
   - [Some preliminary code to research the role of commodity traders](notebooks/commodity_traders.ipynb)
 - [SQL statements for use in metabase](sql/)
+
+## Docker files
+
+The repository contains some docker configuration files. These were used for an experiment with Neo4J, but can be adapted to create a docker container for the whole project.
+
