@@ -4,7 +4,7 @@ This repository is part of an international investigation into the owernship of 
 
 ## Definition
 
-A vessel is part of the shadowfleet if it carries Russian crude or oil, while under or uninsured.
+A vessel is part of the shadowfleet if it carries Russian crude or oil products, while under or uninsured, owned by a non-EU/G7 company.
 
 ## Data sources and caveats
 
